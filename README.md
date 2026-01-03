@@ -12,78 +12,77 @@
 ---
 
 <!-- About Me -->
-## 💫 About Me
-![Waving Hand](https://img.icons8.com/ios-filled/24/000000/waving-hand.png) Hi, I'm **Aya En-Nomany**  
-![Graduation Cap](https://img.icons8.com/ios-filled/24/000000/graduation-cap.png) Full-stack web development student  
-![Laptop](https://img.icons8.com/ios-filled/24/000000/laptop.png) Passionate about building clean, modern, and useful applications  
+# 🚀 **À propos de moi**
 
----
-
-### 🚀 What I work with:
-![Flash](https://img.icons8.com/ios-filled/24/000000/flash-on.png) **Laravel** (REST APIs & backend logic)  
-![React](https://img.icons8.com/ios-filled/24/000000/react-native.png) **React** (modern frontend interfaces)  
-![Palette](https://img.icons8.com/ios-filled/24/000000/paint-palette.png) **Tailwind CSS** (clean & responsive UI)  
-![Database](https://img.icons8.com/ios-filled/24/000000/database.png) **MySQL** (databases & relations)  
-
----
-
-![Book](https://img.icons8.com/ios-filled/24/000000/book.png) Always learning  
-![Code](https://img.icons8.com/ios-filled/24/000000/code-file.png) Always building  
-![Rocket](https://img.icons8.com/ios-filled/24/000000/rocket.png) Always improving
-
-
----
-
-
----
-<!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aya123-nomany&theme=react-dark&hide_border=true&area=true&custom_title=Development%20Activity&height=300" alt="GitHub Activity Graph" style="max-width: 100%;" />
 <div align="center">
----
 
-### 🌐 Frontend
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+![Waving Hand](https://img.icons8.com/ios-filled/24/000000/waving-hand.png) **Bonjour, je suis Aya En-Nomany**  
+![Laptop](https://img.icons8.com/ios-filled/24/000000/laptop.png) **Étudiante en Développement Web Full-Stack**
+
+Passionnée par la création d'applications **modernes, intuitives et performantes**.  
+J'aime transformer des idées en solutions numériques fonctionnelles.
+
 </div>
 
-### **⚙️ Backend Development**
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-
-<br /><br />
-
-### **🗄️ Databases**
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-
-<br /><br />
-
-### **🔧 DevOps & Tools**
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-
-</div>
 ---
 
-## 🌐 Socials
+## 🛠 **Stack Technique**
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cru_ella4070)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aya-en-nomany)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayaennoamany@gmail.com)
+<div align="center">
+
+| **Backend**       | **Frontend**      | **Base de Données** | **Styling**        |
+|-------------------|------------------|--------------------|-------------------|
+| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| APIs REST • Logique métier | Interfaces dynamiques • Composants | Relations • Optimisation | Design responsive • UI moderne |
+
+</div>
+
+---
+
+## 📌 **Domaines de Maîtrise**
+
+### 🔧 **Développement Backend**
+- ![MVC](https://img.icons8.com/ios-filled/24/000000/code-file.png) Architecture MVC • API RESTful  
+- ![Lock](https://img.icons8.com/ios-filled/24/000000/lock.png) Authentification • Sécurité  
+- ![Database](https://img.icons8.com/ios-filled/24/000000/database.png) Gestion des bases de données  
+
+### 🎨 **Développement Frontend**
+- ![Components](https://img.icons8.com/ios-filled/24/000000/components.png) Composants réutilisables  
+- ![State](https://img.icons8.com/ios-filled/24/000000/sorting-arrows.png) État global (State Management)  
+- ![UX](https://img.icons8.com/ios-filled/24/000000/user-experience.png) Expérience utilisateur optimale  
+
+### 🚀 **Full-Stack**
+- ![Integration](https://img.icons8.com/ios-filled/24/000000/integration.png) Intégration frontend/backend  
+- ![Performance](https://img.icons8.com/ios-filled/24/000000/speed.png) Déploiement • Performance  
+- ![Scalable](https://img.icons8.com/ios-filled/24/000000/cloud-computing.png) Solutions complètes et scalables  
+
+---
+
+## 🌟 **Ma Philosophie**
+
+<div align="center">
+
+| ![Book](https://img.icons8.com/ios-filled/24/000000/book.png) **Apprentissage Continu** | ![Code](https://img.icons8.com/ios-filled/24/000000/code-file.png) **Développement Actif** | ![Rocket](https://img.icons8.com/ios-filled/24/000000/rocket.png) **Amélioration Constante** |
+|---------------------------------|---------------------------------|---------------------------------|
+| Toujours à jour avec les nouvelles technologies | Projets pratiques et concrets | Optimisation et refactoring |
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 **Disponible pour des projets stimulants et des opportunités de collaboration !**
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aya123-nomany)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aya-en-nomany)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayaennomany.ct.ws/)
+
+</div>
+
+---
+
+**✨ Toujours en train d'apprendre, de construire et de m'améliorer.**
 
 ---
 
