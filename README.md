@@ -13,14 +13,17 @@
 <!-- About Me -->
 
 ## 💫 About Me
-
 <div align="center">
-✨ **Bonjour, je suis Aya En-Nomany** ✨ <br>
-![Laptop](https://img.icons8.com/ios-filled/24/000000/laptop.png) **Étudiante en Développement Web Full-Stack** <br>
-Passionnée par la création d'applications **modernes, intuitives et performantes**. <br>
-J'aime transformer des idées en solutions numériques fonctionnelles.
+  <h2>✨ Bonjour, je suis Aya En-Nomany ✨</h2>
+  <p>
+    <img src="https://img.icons8.com/color/24/000000/programming.png" alt="code icon" />
+    <strong>Étudiante en Développement Web Full-Stack</strong>
+  </p>
+  <p>
+    Passionnée par la création d'applications <strong>modernes, intuitives et performantes</strong>.<br>
+    J'aime transformer des idées en solutions numériques fonctionnelles.
+  </p>
 </div>
-
 
 ---
 <!-- GitHub Activity Graph -->
