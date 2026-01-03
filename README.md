@@ -5,7 +5,11 @@
   <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=4000&pause=1000&color=FF6B8B&center=true&vCenter=true&width=700&lines=Hi+I'm+Aya+En-Nomany;Full-Stack+Web+Developer;Clean+Code+Advocate;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
-  <br />
+ <br /><br /> <!-- مسافة صغيرة بين Typing SVG والصورة -->
+  
+  <!-- الصورة اللي بغيتي تحطيها -->
+  <img src="https://github.com/aya123-nomany/aya123-nomany/raw/main/22f4d8b84e3c14d89e78f7fe37ca41b0.jpg" alt="Aya Photo" height="250" />
+</div>
   </div>
 
 ---
