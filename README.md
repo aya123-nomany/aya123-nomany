@@ -93,7 +93,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=aya123-nomany&layout=compact&theme=aura_dark" />
+    <img src="https://github-readme-stats.zcy.dev/api?username=aya123-nomany&theme=aura_dark&show_icons=true" />
+
 </div>
 
 
