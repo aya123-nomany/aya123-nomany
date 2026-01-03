@@ -6,13 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=4000&pause=1000&color=FF6B8B&center=true&vCenter=true&width=700&lines=Hi+I'm+Aya+En-Nomany;Full-Stack+Web+Developer;Clean+Code+Advocate;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
   </div>
+  <img src="src="https://raw.githubusercontent.com/aya123-nomany/aya123-nomany/main/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif"" width="400" height="300" alt="description" />
 
 ---
 
 <!-- About Me -->
-<div align="center"> 
-  <img src="https://raw.githubusercontent.com/aya123-nomany/aya123-nomany/main/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif" alt="Snake Animation 3" height="150" align="right" />
-</div>
 
 ## 💫 About Me
 
