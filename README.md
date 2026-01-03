@@ -15,19 +15,46 @@
 
 ## 💫 About Me
 
-👋 Hi, I'm **Aya En-Nomany**  
-🎓 Full-stack web development student  
-💻 Passionate about building clean, modern, and useful applications
+---
+
+## 💫 About Me
+
+<span style="display: inline-flex; align-items: center;">
+  <img src="https://img.icons8.com/ios-filled/24/000000/waving-hand.png"/> Hi, I'm **Aya En-Nomany**
+</span>  
+
+<span style="display: inline-flex; align-items: center;">
+  <img src="https://img.icons8.com/ios-filled/24/000000/graduation-cap.png"/> Full-stack web development student
+</span>  
+
+<span style="display: inline-flex; align-items: center;">
+  <img src="https://img.icons8.com/ios-filled/24/000000/laptop.png"/> Passionate about building clean, modern, and useful applications
+</span>  
+
+---
 
 ### 🚀 What I work with:
-- ⚡ **Laravel** (REST APIs & backend logic)
-- ⚛ **React** (modern frontend interfaces)
-- 🎨 **Tailwind CSS** (clean & responsive UI)
-- 🗄 **MySQL** (databases & relations)
+- <img src="https://img.icons8.com/ios-filled/24/000000/flash-on.png"/> **Laravel** (REST APIs & backend logic)
+- <img src="https://img.icons8.com/ios-filled/24/000000/react-native.png"/> **React** (modern frontend interfaces)
+- <img src="https://img.icons8.com/ios-filled/24/000000/paint-palette.png"/> **Tailwind CSS** (clean & responsive UI)
+- <img src="https://img.icons8.com/ios-filled/24/000000/database.png"/> **MySQL** (databases & relations)
 
-📚 Always learning  
-💻 Always building  
-🚀 Always improving  
+---
+
+<span style="display: inline-flex; align-items: center;">
+  <img src="https://img.icons8.com/ios-filled/24/000000/book.png"/> Always learning
+</span>  
+
+<span style="display: inline-flex; align-items: center;">
+  <img src="https://img.icons8.com/ios-filled/24/000000/code-file.png"/> Always building
+</span>  
+
+<span style="display: inline-flex; align-items: center;">
+  <img src="https://img.icons8.com/ios-filled/24/000000/rocket.png"/> Always improving
+</span>  
+
+---
+
 
 ---
 <!-- GitHub Activity Graph -->
