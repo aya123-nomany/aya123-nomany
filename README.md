@@ -16,7 +16,7 @@
 
 <div align="center">
 
-![Waving Hand](https://img.icons8.com/ios-filled/24/000000/waving-hand.png) **Bonjour, je suis Aya En-Nomany**  
+✨ **Bonjour, je suis Aya En-Nomany**  ✨
 ![Laptop](https://img.icons8.com/ios-filled/24/000000/laptop.png) **Étudiante en Développement Web Full-Stack**
 
 Passionnée par la création d'applications **modernes, intuitives et performantes**.  
@@ -71,7 +71,7 @@ J'aime transformer des idées en solutions numériques fonctionnelles.
 ### 💡 **Disponible pour des projets stimulants et des opportunités de collaboration !**
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cru_ella4070)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aya-en-nomany)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayaennoamany@gmail.com
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayaennoamany@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayaennomany.ct.ws/)
 
 </div>
@@ -86,8 +86,8 @@ J'aime transformer des idées en solutions numériques fonctionnelles.
 | Toujours à jour avec les nouvelles technologies | Projets pratiques et concrets | Optimisation et refactoring |
 
 </div>
----
 
+---
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/aya123-nomany/aya123-nomany/main/github-snake-dark.svg" alt="Snake SVG Animation" height="150" />
