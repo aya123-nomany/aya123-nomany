@@ -15,13 +15,12 @@
 ## 💫 About Me
 
 <div align="center">
-
-✨ **Bonjour, je suis Aya En-Nomany**  ✨
-![Laptop](https://img.icons8.com/ios-filled/24/000000/laptop.png) **Étudiante en Développement Web Full-Stack**
-Passionnée par la création d'applications **modernes, intuitives et performantes**.  
-J'aime transformer des idées en solutions numériques fonctionnelles.
-
+<p>✨ <strong>Bonjour, je suis Aya En-Nomany</strong> ✨</p>
+<p>![Laptop](https://img.icons8.com/ios-filled/24/000000/laptop.png) <strong>Étudiante en Développement Web Full-Stack</strong></p>
+<p>Passionnée par la création d'applications <strong>modernes, intuitives et performantes</strong>.</p>
+<p>J'aime transformer des idées en solutions numériques fonctionnelles.</p>
 </div>
+
 ---
 <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aya123-nomany&theme=react-dark&hide_border=true&area=true&custom_title=Development%20Activity&height=300" alt="GitHub Activity Graph" style="max-width: 100%;" />
