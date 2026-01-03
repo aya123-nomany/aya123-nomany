@@ -29,6 +29,7 @@
 <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aya123-nomany&theme=react-dark&hide_border=true&area=true&custom_title=Development%20Activity&height=300" alt="GitHub Activity Graph" style="max-width: 100%;" />
 <div align="center">
+  
 ---
 
 ### 🌐 Frontend
