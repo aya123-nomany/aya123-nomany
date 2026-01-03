@@ -12,7 +12,7 @@
 
 <!-- About Me -->
 
-## 💫 About Me
+
 <div align="center">
   <h2>✨ Bonjour, je suis Aya En-Nomany ✨</h2>
   <p>
