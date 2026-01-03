@@ -11,8 +11,12 @@
 ---
 
 <!-- About Me -->
-  <img src="https://raw.githubusercontent.com/aya123-nomany/aya123-nomany/main/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="Snake Animation 2" height="150" align="right" />
-  <img src="https://raw.githubusercontent.com/aya123-nomany/aya123-nomany/main/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif" alt="Snake Animation 3" height="150" align="right" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aya123-nomany/aya123-nomany/main/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="Snake Animation 2" height="150" />
+  <br /><br /> 
+  <img src="https://raw.githubusercontent.com/aya123-nomany/aya123-nomany/main/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif" alt="Snake Animation 3" height="150" />
+</div>
+
 ## 💫 About Me
 
 👋 Hi, I'm **Aya En-Nomany**  
@@ -34,7 +38,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aya123-nomany&theme=react-dark&hide_border=true&area=true&custom_title=Development%20Activity&height=300" alt="GitHub Activity Graph" style="max-width: 100%;" />
 <div align="center">
 ---
-## 💻 Tech Stack
 
 ### 🌐 Frontend
 <div align="center">
@@ -92,10 +95,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aya123-nomany&theme=aura_dark&show_icons=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aya123-nomany&theme=aura_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aya123-nomany&layout=compact&theme=aura_dark" />
+  <img src="https://github-readme-stats.zcy.dev/api?username=aya123-nomany&theme=aura_dark&show_icons=true" />
+  <img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=aya123-nomany&layout=compact&theme=aura_dark" />
 </div>
+
 
 ---
 
@@ -115,4 +118,6 @@
 
 ---
 
- <img src="https://raw.githubusercontent.com/aya123-nomany/aya123-nomany/main/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Snake Animation 1" height="150" align="center" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aya123-nomany/aya123-nomany/main/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Snake Animation 1" height="150" />
+</div>
