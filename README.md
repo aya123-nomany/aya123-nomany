@@ -12,46 +12,25 @@
 ---
 
 <!-- About Me -->
-
 ## 💫 About Me
-
----
-
-## 💫 About Me
-
-<span style="display: inline-flex; align-items: center;">
-  <img src="https://img.icons8.com/ios-filled/24/000000/waving-hand.png"/> Hi, I'm **Aya En-Nomany**
-</span>  
-
-<span style="display: inline-flex; align-items: center;">
-  <img src="https://img.icons8.com/ios-filled/24/000000/graduation-cap.png"/> Full-stack web development student
-</span>  
-
-<span style="display: inline-flex; align-items: center;">
-  <img src="https://img.icons8.com/ios-filled/24/000000/laptop.png"/> Passionate about building clean, modern, and useful applications
-</span>  
+![Waving Hand](https://img.icons8.com/ios-filled/24/000000/waving-hand.png) Hi, I'm **Aya En-Nomany**  
+![Graduation Cap](https://img.icons8.com/ios-filled/24/000000/graduation-cap.png) Full-stack web development student  
+![Laptop](https://img.icons8.com/ios-filled/24/000000/laptop.png) Passionate about building clean, modern, and useful applications  
 
 ---
 
 ### 🚀 What I work with:
-- <img src="https://img.icons8.com/ios-filled/24/000000/flash-on.png"/> **Laravel** (REST APIs & backend logic)
-- <img src="https://img.icons8.com/ios-filled/24/000000/react-native.png"/> **React** (modern frontend interfaces)
-- <img src="https://img.icons8.com/ios-filled/24/000000/paint-palette.png"/> **Tailwind CSS** (clean & responsive UI)
-- <img src="https://img.icons8.com/ios-filled/24/000000/database.png"/> **MySQL** (databases & relations)
+![Flash](https://img.icons8.com/ios-filled/24/000000/flash-on.png) **Laravel** (REST APIs & backend logic)  
+![React](https://img.icons8.com/ios-filled/24/000000/react-native.png) **React** (modern frontend interfaces)  
+![Palette](https://img.icons8.com/ios-filled/24/000000/paint-palette.png) **Tailwind CSS** (clean & responsive UI)  
+![Database](https://img.icons8.com/ios-filled/24/000000/database.png) **MySQL** (databases & relations)  
 
 ---
 
-<span style="display: inline-flex; align-items: center;">
-  <img src="https://img.icons8.com/ios-filled/24/000000/book.png"/> Always learning
-</span>  
+![Book](https://img.icons8.com/ios-filled/24/000000/book.png) Always learning  
+![Code](https://img.icons8.com/ios-filled/24/000000/code-file.png) Always building  
+![Rocket](https://img.icons8.com/ios-filled/24/000000/rocket.png) Always improving
 
-<span style="display: inline-flex; align-items: center;">
-  <img src="https://img.icons8.com/ios-filled/24/000000/code-file.png"/> Always building
-</span>  
-
-<span style="display: inline-flex; align-items: center;">
-  <img src="https://img.icons8.com/ios-filled/24/000000/rocket.png"/> Always improving
-</span>  
 
 ---
 
