@@ -72,7 +72,11 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## 🐍 Snake Animation
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aya123-nomany/aya123-nomany/main/github-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 
