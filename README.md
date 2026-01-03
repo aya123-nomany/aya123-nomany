@@ -18,7 +18,6 @@
 
 ✨ **Bonjour, je suis Aya En-Nomany**  ✨
 ![Laptop](https://img.icons8.com/ios-filled/24/000000/laptop.png) **Étudiante en Développement Web Full-Stack**
-
 Passionnée par la création d'applications **modernes, intuitives et performantes**.  
 J'aime transformer des idées en solutions numériques fonctionnelles.
 
