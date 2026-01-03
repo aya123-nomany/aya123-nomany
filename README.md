@@ -4,15 +4,12 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aya123-nomany/aya123-nomany/main/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif" alt="Snake Animation 3" height="150" />
 </div>
 
 ---
 
 <!-- About Me -->
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-  <img src="https://raw.githubusercontent.com/aya123-nomany/aya123-nomany/main/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="Snake Animation 2" height="150" />
-
+  <img src="https://raw.githubusercontent.com/aya123-nomany/aya123-nomany/main/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif" alt="Snake Animation 3" height="150" align="right" />
 ## 💫 About Me
 
 👋 Hi, I'm **Aya En-Nomany**  
@@ -87,5 +84,5 @@
 
 ---
 
-  <img src="https://raw.githubusercontent.com/aya123-nomany/aya123-nomany/main/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Snake Animation 1" height="150" />
+  <img src="https://raw.githubusercontent.com/aya123-nomany/aya123-nomany/main/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Snake Animation 1" height="150" align="center" />
 
