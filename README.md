@@ -1,7 +1,8 @@
-<h2 align="left">Hi 👋! I'm Aya En-Nomany, a Full-Stack Web Development Student from Morocco 🇲🇦</h2>
+<h2 align="center">Hi 👋! I'm Aya En-Nomany, a Full-Stack Web Development Student from Morocco 🇲🇦</h2>
 
 ---
 
+<!-- GitHub Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aya123-nomany&show_icons=true&theme=dracula&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aya123-nomany&layout=compact&theme=dracula&hide_border=false" height="150" />
@@ -9,6 +10,7 @@
 
 ---
 
+<!-- About Me -->
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 ## 💫 About Me
@@ -52,32 +54,45 @@
 
 ---
 
+
+<div align="center">
+  <h3>🎮 My Snake Animations</h3>
+  <img src="https://raw.githubusercontent.com/aya123-nomany/aya123-nomany/main/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Snake Animation 1" height="150" />
+  <img src="https://raw.githubusercontent.com/aya123-nomany/aya123-nomany/main/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="Snake Animation 2" height="150" />
+  <img src="https://raw.githubusercontent.com/aya123-nomany/aya123-nomany/main/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif" alt="Snake Animation 3" height="150" />
+  <img src="https://raw.githubusercontent.com/aya123-nomany/aya123-nomany/main/github-snake-dark.svg" alt="Snake SVG Animation" height="150" />
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=aya123-nomany&theme=aura_dark&show_icons=true" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=aya123-nomany&theme=aura_dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aya123-nomany&layout=compact&theme=aura_dark" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aya123-nomany&theme=aura_dark&show_icons=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=aya123-nomany&theme=aura_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aya123-nomany&layout=compact&theme=aura_dark" />
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=aya123-nomany&theme=radical&margin-w=8" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aya123-nomany&theme=radical&margin-w=8" />
+</div>
 
 ---
 
 ### ✍️ Random Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
----
-
-## 🐍 Snake Animation
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aya123-nomany/aya123-nomany/main/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=aya123-nomany&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📈 Visitor Count
+
+<div align="center">
+  [![](https://visitcount.itsvg.in/api?id=aya123-nomany&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
