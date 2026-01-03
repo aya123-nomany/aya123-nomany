@@ -11,10 +11,8 @@
 ---
 
 <!-- About Me -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aya123-nomany/aya123-nomany/main/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="Snake Animation 2" height="150" />
-  <br /><br /> 
-  <img src="https://raw.githubusercontent.com/aya123-nomany/aya123-nomany/main/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif" alt="Snake Animation 3" height="150" />
+<div align="center"> 
+  <img src="https://raw.githubusercontent.com/aya123-nomany/aya123-nomany/main/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif" alt="Snake Animation 3" height="150" align="right" />
 </div>
 
 ## 💫 About Me
@@ -95,7 +93,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.zcy.dev/api?username=aya123-nomany&theme=aura_dark&show_icons=true" />
   <img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=aya123-nomany&layout=compact&theme=aura_dark" />
 </div>
 
