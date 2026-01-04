@@ -111,7 +111,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aya123-nomany&theme=radical&margin-w=8" />
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ihyaet&theme=radical&no-frame=true&margin-w=15&margin-h=15)
 </div>
 
 ---
