@@ -110,9 +110,8 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aya123-nomany&theme=flat" />
-</p>
+https://github-profile-trophy.vercel.app/?username=aya123-nomany
+
 
 
 ---
