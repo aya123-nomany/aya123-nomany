@@ -110,9 +110,9 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ihyaet&theme=radical&no-frame=true&margin-w=15&margin-h=15)
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ihyaet&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
