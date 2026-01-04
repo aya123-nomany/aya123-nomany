@@ -110,7 +110,7 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ihyaet&theme=radical&no-frame=true&margin-w=15&margin-h=15)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aya123-nomany)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
